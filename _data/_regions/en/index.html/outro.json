@@ -5,5 +5,11 @@
   {
     "content": "<p>testing testing testing</p>",
     "_template": "html"
+  },
+  {
+    "_template": "1_col",
+    "html": {
+      "content": "<p>ANOTHER TEST&nbsp;</p>"
+    }
   }
 ]
